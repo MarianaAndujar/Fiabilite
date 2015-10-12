@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <Etudiant Nom='Zouai' Prenom='Dalal' statut='FSI' NumEtudiant='1003502' />
+    
+    <PSoutenance Jour='1' plageHoraire='1' NumSalle='100' idPlage='10' />
+    
+    <Soutenance NumEtu='1003502' idPlage='10' titre='OralPresentation1'/>  
+</dataset>
